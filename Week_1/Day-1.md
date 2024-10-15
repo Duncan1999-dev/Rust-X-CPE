@@ -4,11 +4,11 @@
   - click the windows buttton to download the installer(rustup-init.exe).
 
   **Step 2:Run the installer**
-    - Once downloaded run the installer and follow the prompts
-    - select default installation unless you have specific requirements
+- Once downloaded run the installer and follow the prompts
+- select default installation unless you have specific requirements
 
   **Step 3:Verify installation**
-    - Open a new command prompt or powershell window and type:
+- Open a new command prompt or powershell window and type:
 ```
   rustc --version
   ```
